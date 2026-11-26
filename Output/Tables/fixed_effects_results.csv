@@ -1,0 +1,30 @@
+,"Model 1
+Baseline","Model 2
++ Inequality","Model 3
+Main","Model 4
++ Education"
+Log real GDP per capita,"-22.832
+(21.900)","-23.713
+(20.205)","-45.596**
+(19.874)","-63.179**
+(28.019)"
+Gini index,—,"1.160**
+(0.512)","1.374***
+(0.495)","1.512***
+(0.501)"
+Employment rate,—,—,"-0.863*
+(0.465)","-0.784
+(0.498)"
+Electricity access,—,—,"0.287
+(0.200)","0.279
+(0.287)"
+Inflation rate,—,—,"0.007
+(0.018)","-0.033*
+(0.018)"
+Secondary completion,—,—,—,"-0.363**
+(0.151)"
+Country fixed effects,Yes,Yes,Yes,Yes
+Linear time trend,Yes,Yes,Yes,Yes
+Clustered SE,Country,Country,Country,Country
+Observations,108,108,105,72
+Countries,45,45,44,38
